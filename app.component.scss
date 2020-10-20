@@ -1,0 +1,20 @@
+.form-group {
+  padding: 10px;
+  border: 2px solid;
+  margin: 10px;
+  height: 49px;
+  border-radius: 5px;
+  border: 2px solid #ced4da;
+}
+.form-group > label {
+  padding-left: 0px;
+  padding-right: 0px;
+  position: relative;
+  top: -24px;
+  left: 1px;
+  background-color: white;
+}
+
+.form-group > input {
+  border: none;
+}
